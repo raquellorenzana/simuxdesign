@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+    <title>sim_logo_blk_192px_RGB</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="sim_logo_blk_192px_RGB" sketch:type="MSLayerGroup">
+            <g id="Group" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-path"  x="0" y="0" width="192" height="192"></rect>
+                <path d="M168,120 L168,60 L96,24 L24,60 L24,64 L156,130 L96,160 L96,108 L88,104 L88,156 L32,128 L32,76 L24,72 L24,132 L96,168 L168,132 L168,128 L36,62 L96,32 L156,62 L104,88 L112,92 L160,68 L160,116 L168,120 Z" id="Shape" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>
